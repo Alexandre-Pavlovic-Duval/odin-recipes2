@@ -1,4 +1,4 @@
-Odin Recipe V2
+# odin-recipes2
 
 Inside this project I picked 3 of my favorites food.
 
@@ -8,4 +8,6 @@ Inside Each recipes I insert an image and a description. I also displayed the in
 
 --Skills--
 
-I used paragraphs, italic and bold to make the sentences more serious. I also used ordered and unordered list to highlight the mains parts I linked 3 differents pages into the main one.
+I used paragraphs, italic and bold to make the sentences more serious.
+I also used ordered and unordered list to highlight the mains parts
+I linked 3 differents pages into the main one.
